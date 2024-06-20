@@ -90,16 +90,17 @@ Envie um Pull Request explicando suas alterações. <br><br>
 **Agradecemos sua contribuição!** 🎉
 
 
-## Nosso time 👩‍💻👨‍💻
+## Desenvolvimento 👩‍💻👨‍💻
 
-- **[Isadora](https://www.linkedin.com/in/isadora-rodrigues-904b36164/)**: Desenvolvimento FrontEnd 💻 <br>
-    - Email: [isadoradorarodrigues@gmail.com](mailto:isadoradorarodrigues@gmail.com)
-- **[Henrique](http://www.linkedin.com/in/henrique-cezar)**: Desenvolvimento BackEnd e Banco de Dados 🛠️ <br>
-    - Email: [hcgv1@hotmail.com](mailto:hcgv1@hotmail.com) 
-- **[Gabriel](https://www.linkedin.com/in/gabriel-felipe-8b3543273/)**: Planejamento e Estruturação do Tema 📊 <br>
-    - Email: [gabrielfelipe0500@gmail.com](mailto:gabrielfelipe0500@gmail.com)
-- **Weslley**: Ideias e Inovações 💡 <br>
-    - Email: [weslleyferreiracruzeiro@gmail.com ](mailto:Weslleyferreiracruzeiro@gmail.com )
+- **Henrique**: Desenvolvimento BackEnd e Banco de Dados 🛠️ <br>
+  - [Linkedin](http://www.linkedin.com/in/henrique-cezar)
+  - Email: [hcgv1@hotmail.com](mailto:hcgv1@hotmail.com)
+- **Isadora**: Desenvolvimento FrontEnd 💻 <br>
+  - [Linkedin](https://www.linkedin.com/in/isadora-rodrigues-904b36164/)
+  - Email: [isadoradorarodrigues@gmail.com](mailto:isadoradorarodrigues@gmail.com)
+
+
+**Link do repositório front-end:** https://github.com/isadoritas/projeto-A03-2024-front
 
 ![Sobre nós](images/nosso_time.jpg)
 
